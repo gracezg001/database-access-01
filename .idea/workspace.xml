@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="401ccded-9a04-4c13-bf9c-3ca27810c768" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+    <list default="true" id="401ccded-9a04-4c13-bf9c-3ca27810c768" name="Changes" comment="logback.xml file update">
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/logback.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670800016750</updated>
     </task>
+    <task id="LOCAL-00001" summary="logback.xml file update">
+      <created>1672545640126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672545640126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="logback.xml file update" />
+    <option name="LAST_COMMIT_MESSAGE" value="logback.xml file update" />
   </component>
 </project>
